@@ -1,0 +1,13 @@
+.content {
+    display: flex;
+    padding: 0 48px;
+}
+.video {
+    max-height: 60vh;
+}
+.about {
+    margin-left: 32px;
+}
+.about-text {
+    margin-bottom: 8px;
+}
